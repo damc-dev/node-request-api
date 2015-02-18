@@ -1,0 +1,23 @@
+{
+  "name": "node-request-api",
+  "version": "1.0.0",
+  "description": "Nodejs API that returns the request object",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damc-dev/node-request-api.git"
+  },
+  "author": "David McElligott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damc-dev/node-request-api/issues"
+  },
+  "homepage": "https://github.com/damc-dev/node-request-api",
+  "dependencies": {
+    "circular-json": "^0.1.6",
+    "express": "^4.11.2"
+  }
+}
